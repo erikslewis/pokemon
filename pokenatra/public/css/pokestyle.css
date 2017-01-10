@@ -61,6 +61,13 @@ body {
   font-size: 200%;
   background-color: blue;
 }
+img.ok{
+  text-align: center;
+  margin: auto;
+  position: relative;
+  display: block;
+
+}
 
 a:hover {
   padding: 20px;
